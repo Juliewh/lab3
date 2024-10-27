@@ -81,4 +81,5 @@ sudo netfilter-persistent save
 
 ![изображение](https://github.com/user-attachments/assets/af7926cb-f2d6-4c18-b1ab-04e2ce78418b)
 
+## Все работает, победа.
 
